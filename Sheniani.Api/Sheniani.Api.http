@@ -1,0 +1,6 @@
+@Sheniani.Api_HostAddress = http://localhost:5237
+
+GET {{Sheniani.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
