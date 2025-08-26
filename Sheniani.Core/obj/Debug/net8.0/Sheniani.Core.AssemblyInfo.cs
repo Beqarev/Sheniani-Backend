@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sheniani.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f80af60111dec1b5cdb38235a89e041269078cf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sheniani.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sheniani.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
